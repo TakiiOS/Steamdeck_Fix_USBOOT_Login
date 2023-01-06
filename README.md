@@ -1,7 +1,5 @@
 [![](https://github.com/Gotcha007/steamdeck-configuration-ultime-windows11/blob/main/images/Psteam-deck-white-1-2-1-3.svg)](https://puissancesteamdeck.com/)
 ***
-[![](https://github.com/Gotcha007/steamdeck-configuration-ultime-windows11/blob/main/images/Psteam-deck-white-1-2-1-3.svg)](https://puissancesteamdeck.com/)
-***
 Tuto Fix BAD USB Recovery Steam deck.
 ***
 [![](https://cdn.discordapp.com/attachments/1001582672440737822/1060966086352322650/IMG_20230105_225131.jpg)](https://puissancesteamdeck.com/)
