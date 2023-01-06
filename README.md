@@ -2,7 +2,7 @@
 ***
 Tuto Fix BAD USB Recovery Steam deck.
 ***
-[![](https://cdn.discordapp.com/attachments/1001582672440737822/1060611837588152470/unbrick.jpg)](https://puissancesteamdeck.com/)
+[![](https://cdn.discordapp.com/attachments/1001582672440737822/1060966086352322650/IMG_20230105_225131.jpg)](https://puissancesteamdeck.com/)
 
 1.Dans le BIOS, utilisez le D-Pad pour naviguer et le bouton A pour sélectionner.
 
