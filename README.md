@@ -1,5 +1,7 @@
 [![](https://github.com/Gotcha007/steamdeck-configuration-ultime-windows11/blob/main/images/Psteam-deck-white-1-2-1-3.svg)](https://puissancesteamdeck.com/)
 ***
+[![](https://github.com/Gotcha007/steamdeck-configuration-ultime-windows11/blob/main/images/Psteam-deck-white-1-2-1-3.svg)](https://puissancesteamdeck.com/)
+***
 Tuto Fix BAD USB Recovery Steam deck.
 ***
 [![](https://cdn.discordapp.com/attachments/1001582672440737822/1060966086352322650/IMG_20230105_225131.jpg)](https://puissancesteamdeck.com/)
@@ -10,13 +12,13 @@ Tuto Fix BAD USB Recovery Steam deck.
 
 3. Accédez au menu Alimentation.
 
-4.  le mode de stockage de la batterie.
+4. le mode de stockage de la batterie.
 
 5. Sélectionnez Oui pour confirmer.
 
 6. Votre Steam Deck devrait maintenant s'éteindre en mode stockage.
 
-7. Après cela, connectez le chargeur au streamdeck . 
+7. Après cela, connectez le chargeur au steamdeck . 
 ***
 1. Within the BIOS, use the D-Pad to navigate and the A button to select.
 
